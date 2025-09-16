@@ -1,4 +1,4 @@
-public class Main2
+public class Part_1_continued
 {
 
     public static void main(String[] args)
