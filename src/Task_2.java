@@ -14,6 +14,6 @@ public class Task_2
 
         double totalCost = winterCost + springCost + summerCost + fallCost;
 
-        System.out.println("The total yearly cost is: " + totalCost);
+        System.out.println("The total yearly maintenance cost is: " + totalCost);
     }
 }
